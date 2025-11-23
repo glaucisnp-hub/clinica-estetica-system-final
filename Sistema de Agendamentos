@@ -1,3 +1,6 @@
 git add .
 git commit -m "Adicionar estrutura inicial do módulo de agendamentos"
 git push -u origin feature/agendamentos
+git add agendamentos.html
+git commit -m "Aprimorar módulo de agendamentos com campos de data, hora e procedimento"
+
