@@ -1,0 +1,3 @@
+git add .
+git commit -m "Adicionar estrutura inicial de cadastro de clientes"
+git push -u origin feature/cadastro-clientes
